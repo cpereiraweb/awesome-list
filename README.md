@@ -87,6 +87,7 @@ Contato:
 - [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss/) - 🇺🇸 Awesome List.
 
 ## Laravel Livewire
+- Vídeo do Tio Jobs: <a href="https://www.youtube.com/watch?v=ekWHNv4uyFQ&ab_channel=BeerandCode" target="_blank">Refatorando ViaCEP com Livewire - Live Coding</a>
 - Documentação oficial: <a href="https://laravel-livewire.com/" target="_blank">https://laravel-livewire.com</a>
 - Livewire PowerGrid: <a href="https://github.com/Power-Components/livewire-powergrid/" target="_blank">https://github.com/Power-Components/livewire-powergrid</a>
 
